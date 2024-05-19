@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
 <h1 align="center">Hi 👋, I'm Krishna Udata</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
